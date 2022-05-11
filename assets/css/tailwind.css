@@ -1,0 +1,15 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+body {
+  @apply bg-red-50;
+}
+.header-v1 {
+  @apply bg-blue-800 shadow-xl py-4 flex justify-center sticky top-0;
+}
+.footer-v1 {
+  @apply bg-blue-200 py-4 flex justify-center border backdrop-blur-[0] bg-opacity-10;
+}
+.cardBody {
+  @apply p-4;
+}

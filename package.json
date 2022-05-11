@@ -1,0 +1,17 @@
+{
+  "name": "joyonto-karmakar-portfolio",
+  "description": "joyonto karmakar portfolio website.",
+  "author": "Joyonto Karmakar",
+  "license": "ISC",
+  "version": "1.0.0",
+  "scripts": {
+    "build": "nuxt build",
+    "dev": "nuxt dev",
+    "generate": "nuxt generate",
+    "preview": "nuxt preview"
+  },
+  "devDependencies": {
+    "@nuxtjs/tailwindcss": "^5.0.4",
+    "nuxt": "3.0.0-rc.1"
+  }
+}
